@@ -1,0 +1,5 @@
+raw_audio/
+output/
+.venv/
+*.mp3
+.DS_Store
